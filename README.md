@@ -1,0 +1,1 @@
+This Repo contain a script to install Jenkins on Ubuntu Server 
