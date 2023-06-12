@@ -23,3 +23,4 @@ sudo apt-get install jenkins -y
 sudo systemctl restart jenkins
 sleep 10
 sudo systemctl status jenkins
+echo "please PRESS 'q' on your keyboard to exit the script"
