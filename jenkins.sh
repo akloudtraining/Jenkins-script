@@ -1,5 +1,5 @@
 #!/bin/bash
-#This is cript is to install jenkins
+#This is script is to install jenkins
 #date
 
 echo "Updating the system"
